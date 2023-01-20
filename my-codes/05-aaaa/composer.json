@@ -1,0 +1,16 @@
+{
+    "name": "root/05-aaaa",
+    "autoload": {
+        "psr-4": {
+            "Root\\05Aaaa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rochele"
+        }
+    ],
+    "require": {
+        "phpseclib/phpseclib": "~3.0"
+    }
+}
